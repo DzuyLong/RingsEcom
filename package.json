@@ -1,0 +1,14 @@
+{
+  "name": "noirforge",
+  "version": "1.0.0",
+  "description": "A premium WooCommerce theme for men's jewelry stores.",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "sass": "^1.77.0"
+  }
+}
